@@ -4,6 +4,7 @@ title: توصیف رابطه کاربری
 
 <Intro>
 
+  ریکت یک کتابخانه جاوااسکریپتی برای رندر کردن رابط کاربری می باشد. رابط کاربری از قسمت های کوچک مثل یک دکمه، نوشته و یک تصویر ایجاد شده است.
 React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text, and images. React lets you combine them into reusable, nestable *components.* From web sites to phone apps, everything on the screen can be broken down into components. In this chapter, you'll learn to create, customize, and conditionally display React components.
 
 </Intro>
